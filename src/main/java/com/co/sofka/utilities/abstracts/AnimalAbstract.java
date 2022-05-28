@@ -6,8 +6,6 @@ package com.co.sofka.utilities.abstracts;
  *  * @since 01.
  *  en  comun que tiene los animales
  *
-
- *
  */
 public abstract class AnimalAbstract {
 
